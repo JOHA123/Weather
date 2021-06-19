@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">How is the weather?</string>
+    <string name="boton1">SEARCH WEATHER</string>
+    <string name="label1">Current: </string>
+    <string name="label2">min: </string>
+    <string name="label3">max: </string>
+    <string name="label4">Weather: </string>
+    <string name="boton2">GO TO MAPS</string>
+    <string name="label1_2">Current Weather</string>
+    <string name="label2_2">min Weather</string>
+    <string name="label3_2">max Weather</string>
+    <string name="label4_2">Here WeatherVal</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">MAPS</string>
+</resources>
